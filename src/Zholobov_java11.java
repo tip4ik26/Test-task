@@ -13,7 +13,7 @@ import java.util.Scanner;
 //3. Задан массив целых чисел: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
 // Необходимо написать программу, которая выведет в консоль все чётные числа.
 
-public class Task {
+public class Zholobov_java11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Выберите номер задания от 1 до 3:");
